@@ -1,0 +1,17 @@
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\bin\Debug\net6.0\MISA.CUKCUK.BL.deps.json
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\bin\Debug\net6.0\MISA.CUKCUK.BL.dll
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\bin\Debug\net6.0\MISA.CUKCUK.BL.pdb
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\bin\Debug\net6.0\MISA.CUKCUK.API.Common.dll
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\bin\Debug\net6.0\MISA.CUKCUK.DL.dll
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\bin\Debug\net6.0\MISA.CUKCUK.API.Common.pdb
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\bin\Debug\net6.0\MISA.CUKCUK.DL.pdb
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\obj\Debug\net6.0\MISA.CUKCUK.BL.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\obj\Debug\net6.0\MISA.CUKCUK.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\obj\Debug\net6.0\MISA.CUKCUK.BL.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\obj\Debug\net6.0\MISA.CUKCUK.BL.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\obj\Debug\net6.0\MISA.CUKCUK.BL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\obj\Debug\net6.0\MISA.CUKCUK.BL.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\obj\Debug\net6.0\MISA.CUKCUK.BL.dll
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\obj\Debug\net6.0\refint\MISA.CUKCUK.BL.dll
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\obj\Debug\net6.0\MISA.CUKCUK.BL.pdb
+C:\Users\ACER\OneDrive\Desktop\MisaGD2\TEST-CukCuk\Source\MISA_GPBL09_CUKCUK\BE\MISA.CUKCUK.API\MISA.CUKCUK.BL\obj\Debug\net6.0\ref\MISA.CUKCUK.BL.dll

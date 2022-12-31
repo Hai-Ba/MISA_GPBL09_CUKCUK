@@ -1,0 +1,241 @@
+
+/* Icon cho Header */
+.sprite-toggle {
+	background: url('../assets/icons/icon-left-header.png') no-repeat -1px -2px;
+	width: 20px;
+	height: 17px;
+}
+
+.sprite-trigger {
+	background: url('../assets/icons/trigger.png') no-repeat -73px -9px;
+	width: 8px;
+	height: 4px;
+}
+/* Icon cho Header */
+
+/* Icon cho combobox */
+.sprite-triangle-down {
+    background: url('../assets/icons/Sprites.64af8f61.svg') no-repeat -564px -365px;
+	width: 8px;
+	height: 5px;
+    cursor: pointer;
+}
+
+.sprite-plus-icon {
+	background: url('../assets/icons/IconSprite.png') no-repeat 0 -48px;
+	width: 15px;
+	height: 15px;
+    cursor: pointer;
+}
+/* Icon cho combobox */
+
+/* Icon cho Sidebar */
+.sprite-menu {
+	background: url('../assets/icons/Sprites.64af8f61.svg') no-repeat -249px -1586px;
+	width: 24px;
+	height: 24px;
+}
+/* Icon cho Sidebar */
+
+/* Icon cho Content-Title */
+.sprite-view-email {
+	background: url('../assets/icons/viewEmail.png') no-repeat 0 -2px;
+	width: 16px;
+	height: 13px;
+}
+/* Icon cho Content-Title */
+
+/* Icon cho Table-tab-menu */
+.sprite-add-record {
+	background: url('../assets/icons/IconSprite.png') no-repeat -1px -2416px;
+	width: 15px;
+	height: 15px;
+}
+
+.sprite-duplicate-record {
+	background: url('../assets/icons/IconSprite.png') no-repeat -1px -1888px;
+	width: 15px;
+	height: 15px;
+}
+
+.sprite-update-record {
+	background: url('../assets/icons/IconSprite.png') no-repeat 0 -1872px;
+	width: 15px;
+	height: 15px;
+}
+
+.sprite-delete-record {
+	background: url('../assets/icons/IconSprite.png') no-repeat -2px -2683px;
+	width: 12px;
+	height: 11px;
+}
+
+.sprite-reload {
+	background: url('../assets/icons/IconSprite.png') no-repeat 0 -2586px;
+	width: 16px;
+	height: 13px;
+}
+
+.sprite-export-table {
+	background: url('../assets/icons/IconSprite.png') no-repeat 0 -1824px;
+	width: 16px;
+	height: 16px;
+}
+/* Icon cho Table-tab-menu */
+
+/* Icon cho Paging */
+.sprite-page-first-enable {
+	background: url('../assets/icons/page-first.png') no-repeat 0 0;
+	width: 16px;
+	height: 16px;
+}
+
+.sprite-page-last-enable {
+	background: url('../assets/icons/page-last.png') no-repeat 0 0;
+	width: 16px;
+	height: 16px;
+}
+
+.sprite-page-next-enable {
+	background: url('../assets/icons/page-next.png') no-repeat -3px 0;
+	width: 9px;
+	height: 16px;
+}
+
+.sprite-page-prev-enable {
+	background: url('../assets/icons/page-prev.png') no-repeat -3px 0;
+	width: 9px;
+	height: 16px;
+}
+
+.sprite-page-first-disable {
+	background: url('../assets/icons/page-first.png') no-repeat 0 0;
+	width: 16px;
+	height: 16px;
+}
+
+.sprite-page-last-disable {
+	background: url('../assets/icons/page-last.png') no-repeat 0 0;
+	width: 16px;
+	height: 16px;
+}
+
+.sprite-page-next-disable {
+	background: url('../assets/icons/page-next.png') no-repeat -3px 0;
+	width: 9px;
+	height: 16px;
+}
+
+.sprite-page-prev-disable {
+	background: url('../assets/icons/page-prev.png') no-repeat -3px 0;
+	width: 9px;
+	height: 16px;
+}
+
+.sprite-refresh {
+	background: url('../assets/icons/refresh.png') no-repeat 0 0;
+	width: 16px;
+	height: 16px;
+}
+/* Icon cho Paging */
+
+
+/* ICON cho checkbox */
+.sprite-nor-unchecked {
+	background: url('../assets/icons/checkbox.png') no-repeat -1px -1px;
+	width: 14px;
+	height: 13px;
+}
+
+.sprite-nor-checked {
+	background: url('../assets/icons/checkbox.png') no-repeat -1px -15px;
+	width: 14px;
+	height: 14px;
+}
+
+.sprite-hover-unchecked {
+	background: url('../assets/icons/checkbox.png') no-repeat -16px -1px;
+	width: 14px;
+	height: 13px;
+}
+
+.sprite-hover-checked {
+	background: url('../assets/icons/checkbox.png') no-repeat -16px -15px;
+	width: 14px;
+	height: 14px;
+}
+/* ICON cho checkbox */
+
+/* ICON cho form footer */
+.sprite-save {
+	background: url('../assets/icons/save.png') no-repeat 0 0;
+	width: 15px;
+	height: 14px;
+}
+
+.sprite-save-many {
+	background: url('../assets/icons/save-add.png') no-repeat 0 0;
+	width: 17px;
+	height: 17px;
+}
+
+.sprite-cancel {
+	background: url('../assets/icons/IconSprite.png') no-repeat 0 -1952px;
+	width: 15px;
+	height: 15px;
+}
+
+.sprite-help {
+	background: url('../assets/icons/IconSprite.png') no-repeat 0 -1600px;
+	width: 16px;
+	height: 16px;
+}
+/* ICON cho form footer */
+
+/* ICON cho image symbol btn */
+.sprite-pen {
+	background: url('../assets/icons/pen-symbol.png') no-repeat 0 0;
+	width: 12px;
+	height: 12px;
+}
+
+.sprite-close-pic {
+	background: url('../assets/icons/IconSprite.png') no-repeat -3px -2003px;
+	width: 11px;
+	height: 11px;
+}
+
+/* ICON cho dialog */
+.sprite-question {
+	background: url('../assets/icons/icon-question.png') no-repeat 0 0;
+	width: 32px;
+	height: 32px;
+}
+
+.sprite-warning {
+	background: url('../assets/icons/icon-warning.png') no-repeat 0 0;
+	width: 32px;
+	height: 29px;
+}
+
+/*Icon cho form ServeHobby*/
+.sprite-add-row {
+	background: url('../assets/icons/IconSprite.png') no-repeat -1px -2416px;
+	width: 15px;
+	height: 15px;
+}
+
+.sprite-delete-row {
+	background: url('../assets/icons/IconSprite.png') no-repeat -3px -2003px;
+	width: 11px;
+	height: 11px;
+}
+
+/*Loading gif*/
+.sprite-loading {
+	background: url('../assets/images/loading.gif') no-repeat 0 0;
+	width: 16px;
+	height: 16px;
+}
+
+

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4jDiQQvuPVSOFeJjdoIIeEFE8Da/R4QsJSeQKj168upeKOQQFTYdHGIEDHjGjt9kOdvuBL6aGDw5EHk2N6F4bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Desktop\\MisaGD2\\TEST-CukCuk\\Source\\MISA_GPBL09_CUKCUK\\BE\\MISA.CUKCUK.API\\MISA.CUKCUK.DL\\MISA.CUKCUK.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\mysqlconnector\\2.2.3\\mysqlconnector.2.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
